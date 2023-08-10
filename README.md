@@ -21,17 +21,15 @@ If you don't have the required permissions and quota, contact your tenancy admin
 
 3. Select the region where you want to deploy the stack.
    
-4. Please choose terraform version 1.1 or above as OKE module works for that only.
+4. Follow the on-screen prompts and instructions to create the stack.
 
-5. Follow the on-screen prompts and instructions to create the stack.
+5. After creating the stack, click **Terraform Actions**, and select **Plan**.
 
-6. After creating the stack, click **Terraform Actions**, and select **Plan**.
-
-7. Wait for the job to be completed, and review the plan.
+6. Wait for the job to be completed, and review the plan.
 
     To make any changes, return to the Stack Details page, click **Edit Stack**, and make the required changes. Then, run the **Plan** action again.
 
-8. If no further changes are necessary, return to the Stack Details page, click **Terraform Actions**, and select **Apply**. 
+7. If no further changes are necessary, return to the Stack Details page, click **Terraform Actions**, and select **Apply**. 
 
 ## Validate the Deployment
 
