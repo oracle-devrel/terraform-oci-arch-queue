@@ -13,7 +13,7 @@ If you don't have the required permissions and quota, contact your tenancy admin
 
 ## Deploy Using Oracle Resource Manager
 
-1. Click [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?terraformVersion=1.1&region=home&zipUrl=https://github.com/anilcourse/terraform-oci-arch-queue/releases/download/1.0.0/terraform-oci-arch-queue.zip)
+1. Click [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?terraformVersion=1.1&region=home&zipUrl=https://github.com/oracle-devrel/terraform-oci-arch-queue/releases/download/latest/terraform-oci-arch-queue.zip)
 
     If you aren't already signed in, when prompted, enter the tenancy and user credentials.
 
