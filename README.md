@@ -13,7 +13,7 @@ If you don't have the required permissions and quota, contact your tenancy admin
 
 ## Deploy Using Oracle Resource Manager
 
-1. Click [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?terraformVersion=1.1&region=home&zipUrl=https://github.com/anilcourse/terraform-oci-arch-queue/releases/download/1.0.0/terraform-oci-arch-queue.zip)
+1. Click [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?terraformVersion=1.1&region=home&zipUrl=https://github.com/oracle-devrel/terraform-oci-arch-queue/releases/download/latest/terraform-oci-arch-queue.zip)
 
     If you aren't already signed in, when prompted, enter the tenancy and user credentials.
 
@@ -21,17 +21,15 @@ If you don't have the required permissions and quota, contact your tenancy admin
 
 3. Select the region where you want to deploy the stack.
    
-4. Please choose terraform version 1.1 or above as OKE module works for that only.
+4. Follow the on-screen prompts and instructions to create the stack.
 
-5. Follow the on-screen prompts and instructions to create the stack.
+5. After creating the stack, click **Terraform Actions**, and select **Plan**.
 
-6. After creating the stack, click **Terraform Actions**, and select **Plan**.
-
-7. Wait for the job to be completed, and review the plan.
+6. Wait for the job to be completed, and review the plan.
 
     To make any changes, return to the Stack Details page, click **Edit Stack**, and make the required changes. Then, run the **Plan** action again.
 
-8. If no further changes are necessary, return to the Stack Details page, click **Terraform Actions**, and select **Apply**. 
+7. If no further changes are necessary, return to the Stack Details page, click **Terraform Actions**, and select **Apply**. 
 
 ## Validate the Deployment
 
