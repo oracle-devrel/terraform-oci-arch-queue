@@ -24,17 +24,7 @@ resource "null_resource" "function_Push2OCIR" {
     EOT
     
   }
-  provisioner "local-exec" {
 
-   
-   command = <<-EOT
-      
-      
-	  git checkout  terraformchanges
-
-    EOT
-    working_dir = "${path.root}/oci-arch-queue-oke-demo/"
-  }
   provisioner "local-exec" {
     command     = <<-EOT
     
