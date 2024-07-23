@@ -98,7 +98,7 @@ When you no longer need the deployment, you can run this command to destroy the 
 ![Queue Demo Architecture](https://github.com/oracle-devrel/oci-arch-queue-oke-demo/blob/main/images/demo-architecture.png?raw=true)
 
 ## License
-Copyright (c) 2022 Oracle and/or its affiliates.
+Copyright (c) 2024 Oracle and/or its affiliates.
 
 Licensed under the Universal Permissive License (UPL), Version 1.0.
 
